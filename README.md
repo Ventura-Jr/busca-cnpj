@@ -71,6 +71,7 @@ Isso abrirá a interface web no navegador (normalmente em http://localhost:8501)
 
 ## Contribuições
 
-Contribuições são bem-vindas. Abra uma issue ou um pull request descrevendo a alteração proposta.
+Projeto feito por @mvgentil
+https://github.com/mvgentil/busca-cnpj
 
 
