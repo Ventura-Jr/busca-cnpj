@@ -1,5 +1,6 @@
 # Busca CNPJ
 
+![alt text](image.png)
 Aplicação simples em Python + Streamlit que consulta dados de empresas pelo CNPJ usando a BrasilAPI.
 
 ## Sobre
